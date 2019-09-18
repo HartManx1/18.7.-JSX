@@ -1,5 +1,5 @@
 {
-  "name": "18.8.-projekt-wyszukiwarka-gif-w",
+  "name": "18.7",
   "version": "1.0.0",
   "description": "",
   "main": "script.js",
@@ -9,18 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HartManx1/18.8.-PROJEKT-Wyszukiwarka-gif-w.git"
+    "url": "git+https://github.com/HartManx1/18.7.-JSX"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/HartManx1/18.8.-PROJEKT-Wyszukiwarka-gif-w/issues"
+    "url": "https://github.com/HartManx1/18.7.-JSX/issues"
   },
-  "homepage": "https://github.com/HartManx1/18.8.-PROJEKT-Wyszukiwarka-gif-w#readme",
+  "homepage": "https://github.com/HartManx1/18.7.-JSX#readme",
   "devDependencies": {
     "http-server": "^0.11.1"
   },
   "dependencies": {
-    "babel-standalone": "^6.26.0"
   }
 }
